@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roar Galaxy.Plugins", "Roar Galaxy.Plugins.csproj", "{88D9E72C-FEBA-59FD-BB36-DF0328B22099}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roar Galaxy", "Roar Galaxy.csproj", "{4D953FBC-A5FF-06DE-9C6A-055D76DAE2F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roar Galaxy.Editor.Plugins", "Roar Galaxy.Editor.Plugins.csproj", "{5534AFF0-56CC-5BC6-BFF1-308FBEFC377D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88D9E72C-FEBA-59FD-BB36-DF0328B22099}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88D9E72C-FEBA-59FD-BB36-DF0328B22099}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88D9E72C-FEBA-59FD-BB36-DF0328B22099}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88D9E72C-FEBA-59FD-BB36-DF0328B22099}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D953FBC-A5FF-06DE-9C6A-055D76DAE2F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D953FBC-A5FF-06DE-9C6A-055D76DAE2F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D953FBC-A5FF-06DE-9C6A-055D76DAE2F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D953FBC-A5FF-06DE-9C6A-055D76DAE2F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5534AFF0-56CC-5BC6-BFF1-308FBEFC377D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5534AFF0-56CC-5BC6-BFF1-308FBEFC377D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5534AFF0-56CC-5BC6-BFF1-308FBEFC377D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5534AFF0-56CC-5BC6-BFF1-308FBEFC377D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
